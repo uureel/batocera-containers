@@ -1,8 +1,7 @@
 # batocera-containers
 
-```desktop linux containers
-for batocera x86_64 v36/37
-```
+** desktop linux containers <br>
+for batocera x86_64 v36/37 **
 
 | File Name | Description |
 | --- | --- |
