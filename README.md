@@ -1,7 +1,7 @@
 # batocera-containers
 
 
-<h1 style="font-size:14px">
+<h1 style="font-size:12px">
 desktop linux containers <br>
 for batocera x86_64 v36/37
 </h1>
