@@ -5,7 +5,7 @@
 for use inside x86_64 batocera.linux v36/37<br></i>
 <br>
 
-| File Name | Description |
+| container | description |
 | --- | --- |
 | [alpine.AppImage](./containers/alpine.AppImage) | alpine:latest |
 | [debian.AppImage](./containers/debian.AppImage) | debian:11 (bullseye) |
