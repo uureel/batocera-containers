@@ -3,10 +3,6 @@
 for use inside x86_64 batocera.linux v36/37<br></i>
 
 <br>
-<h1 style="font-size:12px;border=0px;">
-desktop linux containers <br>
-for batocera x86_64 v36/37
-</h1>
 
 | File Name | Description |
 | --- | --- |
@@ -16,11 +12,10 @@ for batocera x86_64 v36/37
 | [ubuntu.AppImage](./containers/ubuntu.AppImage) | ubuntu:20.04 (focal) |
 | [ubuntu22.AppImage](./containers/ubuntu22.AppImage) | ubuntu:22.04 (jammy) |
 
-
 <br>
+
 <h2 style="font-size:12px;border=0px;">
 <i>how to run:</i></h2>
-
 `wget container.AppImage` <br>
 `chmod a+x container.AppImage` <br> 
 `./container.AppImage` <br> 
