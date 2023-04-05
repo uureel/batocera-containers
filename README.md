@@ -1,15 +1,6 @@
 # batocera-containers
 
-<style>
-  body {
-    font-size: 14px;
-  }
-  h1, h2, h3, h4, h5, h6 {
-    font-size: 17px;
-  }
-</style>
-
-<h1>
+<h1 style="font-size:17px">
 desktop linux containers <br>
 for batocera x86_64 v36/37
 </h1>
