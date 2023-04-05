@@ -1,19 +1,17 @@
 # batocera-containers
 
 <style>
-  /* Increase the font size of all text in the README file */
   body {
-    font-size: 18px;
+    font-size: 14px;
   }
-
-  /* Increase the font size of headers in the README file */
   h1, h2, h3, h4, h5, h6 {
-    font-size: 24px;
+    font-size: 17px;
   }
 </style>
 
 <h1>
-desktop linux containers for batocera x86_64 v36/37
+desktop linux containers <br>
+for batocera x86_64 v36/37
 </h1>
 
 | File Name | Description |
