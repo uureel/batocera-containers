@@ -14,9 +14,7 @@ for use inside x86_64 batocera.linux v36/37<br></i>
 | [ubuntu22.AppImage](./containers/ubuntu22.AppImage) | ubuntu:22.04 (jammy) |
 
 <br>
-<font style="font-size:18px;border=0px;">
-<i>HOW TO USE:</i>
-</font>
+  <b><i>&nbsp; HOW TO USE: </b></i>
 <p style="background:#333;color:#ababab;padding:10px;margin:10px;">
   wget container.AppImage<br>
   chmod a+x container.AppImage<br>
