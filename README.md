@@ -17,13 +17,13 @@ for use inside x86_64 batocera.linux v36/37<br></i>
 <h2 style="font-size:12px;border=0px;">
 <i>HOW TO USE:</i>
 </h2>
-<h3 style="background:#333;color:#ababab;padding:10px;margin:10px;">
-  </b>
+<h4 style="background:#333;color:#ababab;padding:10px;margin:10px;">
+  <i>
   wget container.AppImage<br>
   chmod a+x container.AppImage<br>
   ./container.AppImage<br>
-  </b>
-</h3>
+  </i>
+</h4>
 
 <br>
 </body>
