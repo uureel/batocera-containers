@@ -6,6 +6,12 @@ desktop linux containers <br>
 for batocera x86_64 v36/37
 </h1>
 
+<b><i>how to run:</i></b> 
+```
+wget container.AppImage 
+chmod a+x container.AppImage
+./container.AppImage
+```
 
 | File Name | Description |
 | --- | --- |
