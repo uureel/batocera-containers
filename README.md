@@ -15,10 +15,10 @@ for batocera x86_64 v36/37
 | [ubuntu22.AppImage](./containers/ubuntu22.AppImage) | ubuntu:22.04 (jammy) |
 
 <h2 style="font-size:12px">
-<i>how to run:</i>
-</h2>
-```
-wget container.AppImage 
-chmod a+x container.AppImage
-./container.AppImage
-```
+<i>how to run:</i></h2>
+
+`wget container.AppImage`
+`chmod a+x container.AppImage`
+`./container.AppImage`
+
+<br><br>
