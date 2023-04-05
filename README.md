@@ -1,8 +1,7 @@
 # batocera-containers
 
 
-
-<br><br><br>
+<br>
 <h1 style="font-size:12px;border=0px;">
 desktop linux containers <br>
 for batocera x86_64 v36/37
@@ -17,8 +16,7 @@ for batocera x86_64 v36/37
 | [ubuntu22.AppImage](./containers/ubuntu22.AppImage) | ubuntu:22.04 (jammy) |
 
 
-
-<br><br><br>
+<br>
 <h2 style="font-size:12px;border=0px;">
 <i>how to run:</i></h2>
 
