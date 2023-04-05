@@ -5,14 +5,14 @@
 for use inside x86_64 batocera.linux v36/37<br></i>
 <br>
 
-| container | description |
+| appimage | docker container | description |
 | --- | --- |
-| [alpine.AppImage](./containers/alpine.AppImage) | alpine:latest |
-| [debian.AppImage](./containers/debian.AppImage) | debian:11 (bullseye) |
-| [debian12.AppImage](./containers/debian12.AppImage) | debian:12 (bookworm) |
-| [plex.AppImage](./containers/plex.AppImage) | plexinc/pms-docker:latest (plex media server) |
-| [ubuntu.AppImage](./containers/ubuntu.AppImage) | ubuntu:20.04 (focal) |
-| [ubuntu22.AppImage](./containers/ubuntu22.AppImage) | ubuntu:22.04 (jammy) |
+| [alpine.AppImage](./containers/alpine.AppImage) | docker.io/library/alpine:latest | alpine 3.17 stable |
+| [debian.AppImage](./containers/debian.AppImage) | docker.io/library/debian:11 | debian 11 bullseye |
+| [debian12.AppImage](./containers/debian12.AppImage) | docker.io/library/debian:testing | debian 12 bookworm/jessie |
+| [plex.AppImage](./containers/plex.AppImage) | docker.io/plexinc/pms-docker:latest | plex media server |
+| [ubuntu.AppImage](./containers/ubuntu.AppImage) | docker.io/library/ubuntu:20.04 | ubuntu 20.04 focal fossa |
+| [ubuntu22.AppImage](./containers/ubuntu22.AppImage) | docker.io/library/ubuntu:22.04 | ubuntu 22.04 jammy jellyfish |
 
 <br>
 <b><i>HOW TO USE: </b></i>
