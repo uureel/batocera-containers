@@ -1,5 +1,6 @@
 # batocera-containers
-
+<i>this repo provides appimaged podman containers<br>
+for use inside x86_64 batocera.linux v36/37<br></i>
 
 <br>
 <h1 style="font-size:12px;border=0px;">
