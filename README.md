@@ -16,9 +16,11 @@ for use inside x86_64 batocera.linux v36/37<br></i>
 
 <h2 style="font-size:12px;border=0px;">
 <i>HOW TO USE:</i></h2>
-`wget container.AppImage`
-`chmod a+x container.AppImage`
-`./container.AppImage`
+<p style="background:#333;color:#ababab">
+wget container.AppImage<br>
+chmod a+x container.AppImage<br>
+./container.AppImage<br>
+</p>
 
 <br>
 </body>
