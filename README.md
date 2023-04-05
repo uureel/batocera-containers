@@ -17,8 +17,8 @@ for batocera x86_64 v36/37
 <h2 style="font-size:12px">
 <i>how to run:</i></h2>
 
-`wget container.AppImage`
-`chmod a+x container.AppImage`
-`./container.AppImage`
+`wget container.AppImage` <br>
+`chmod a+x container.AppImage` <br> 
+`./container.AppImage` <br> 
 
 <br><br>
