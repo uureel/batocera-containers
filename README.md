@@ -16,9 +16,9 @@ for use inside x86_64 batocera.linux v36/37<br></i>
 <br>
 <b><i>HOW TO USE: </b></i>
 <p style="background:#333;color:#ababab;padding:10px;margin:10px;">
-  wget container.AppImage<br>
-  chmod a+x container.AppImage<br>
-  ./container.AppImage
+  wget https://github.com/uureel/batocera-containers/blob/main/containers/ubuntu.AppImage<br>
+  chmod a+x ubuntu.AppImage<br>
+  ./ubuntu.AppImage
 </p>
 <br>
 <img src=https://user-images.githubusercontent.com/116395185/230185360-c6665b15-4031-4643-bfc7-dc5b7ce214d7.png width=80% height=80%></img>
