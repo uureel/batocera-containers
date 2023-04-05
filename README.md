@@ -10,6 +10,7 @@ for use inside x86_64 batocera.linux v36/37<br></i>
 | [alpine.AppImage](./containers/alpine.AppImage) | alpine:latest |
 | [debian.AppImage](./containers/debian.AppImage) | debian:11 (bullseye) |
 | [debian12.AppImage](./containers/debian12.AppImage) | debian:12 (bookworm) |
+| [plex.AppImage](./containers/plex.AppImage) | plexinc/pms-docker:latest (plex media server) |
 | [ubuntu.AppImage](./containers/ubuntu.AppImage) | ubuntu:20.04 (focal) |
 | [ubuntu22.AppImage](./containers/ubuntu22.AppImage) | ubuntu:22.04 (jammy) |
 
