@@ -20,8 +20,7 @@ for use inside x86_64 batocera.linux v36/37<br></i>
   wget https://github.com/uureel/batocera-containers/blob/main/containers/ubuntu.AppImage<br>
   chmod a+x ubuntu.AppImage<br>
   ./ubuntu.AppImage<br>
-<i><br>&nbsp;&nbsp&nbsp&nbsp if you aren't logged into docker.io and thus can't start the container, <br> 
-&nbsp&nbsp&nbsp create an account there and run this command: <b><a href=https://docs.podman.io/en/latest/markdown/podman-login.1.html>podman login docker.io</a></b> <br>
+<br>
 &nbsp&nbsp&nbsp & then run the appimage again <br></i>
 </p>
 <br>
