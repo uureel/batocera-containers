@@ -21,7 +21,6 @@ for use inside x86_64 batocera.linux v36/37<br></i>
   chmod a+x ubuntu.AppImage<br>
   ./ubuntu.AppImage<br>
 <br>
-&nbsp&nbsp&nbsp & then run the appimage again <br></i>
 </p>
 <br>
 <img src=https://user-images.githubusercontent.com/116395185/230185360-c6665b15-4031-4643-bfc7-dc5b7ce214d7.png width=80% height=80%></img>
