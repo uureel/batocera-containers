@@ -8,6 +8,7 @@ for use inside x86_64 batocera.linux v36/37<br></i>
 | appimage | docker container | description |
 | --- | --- | --- |
 | [alpine.AppImage](./containers/alpine.AppImage) | docker.io/library/alpine:latest | alpine 3.17 stable |
+| [arch.AppImage](./containers/arch.AppImage) | docker.io/library/archlinux | archlinux latest |
 | [debian.AppImage](./containers/debian.AppImage) | docker.io/library/debian:11 | debian 11 bullseye |
 | [debian12.AppImage](./containers/debian12.AppImage) | docker.io/library/debian:testing | debian 12 bookworm/jessie |
 | [plex.AppImage](./containers/plex.AppImage) | docker.io/plexinc/pms-docker:latest | plex media server |
