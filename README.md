@@ -1,13 +1,27 @@
 # batocera-containers
 <html>
 <body>
+
+<style>
+        .icon {
+            width: 20px;
+            height: 20px;
+            display: inline-block;
+            background-size: contain;
+            background-repeat: no-repeat;
+            margin: 12px;
+            vertical-align: middle;
+            filter: invert(100%);
+        }
+</style>
+
 <i>this repo provides appimaged podman containers<br>
 for use inside x86_64 batocera.linux v36/37<br></i>
 <br>
 
 | | appimage | docker container | description |
 | --- | --- | --- | --- |
-| <svg style="filter:invert(100%)"><img src=https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/alpinelinux.svg fill="currentColor" style=";filter:invert(100%);width:32px;height:32px;"></img></svg> | [alpine.AppImage](./containers/alpine.AppImage) | docker.io/library/alpine:latest | alpine 3.17 stable |
+| <img src=https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/alpinelinux.svg fill="currentColor" class="icon" style=";filter:invert(100%);width:32px;height:32px;"></img> | [alpine.AppImage](./containers/alpine.AppImage) | docker.io/library/alpine:latest | alpine 3.17 stable |
 | <img src=https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/archlinux.svg></img> | [arch.AppImage](./containers/arch.AppImage) | docker.io/library/archlinux | archlinux latest |
 | <img src=https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/debian.svg></img> | [debian.AppImage](./containers/debian.AppImage) | docker.io/library/debian:11 | debian 11 bullseye |
 | <img src=https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/debian.svg></img> | [debian12.AppImage](./containers/debian12.AppImage) | docker.io/library/debian:testing | debian 12 bookworm/jessie |
