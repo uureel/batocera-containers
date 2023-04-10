@@ -7,13 +7,13 @@ for use inside x86_64 batocera.linux v36/37<br></i>
 
 | | appimage | docker container | description |
 | --- | --- | --- | --- |
-| <img src=https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/archlinux.svg style="width:32px;height:32px;filter:invert(100%);"></img> | [alpine.AppImage](./containers/alpine.AppImage) | docker.io/library/alpine:latest | alpine 3.17 stable |
+| <img src=https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/alpinelinux.svg style="filter:invert(100%);width:32px;height:32px;"></img> | [alpine.AppImage](./containers/alpine.AppImage) | docker.io/library/alpine:latest | alpine 3.17 stable |
 | <img src=https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/archlinux.svg></img> | [arch.AppImage](./containers/arch.AppImage) | docker.io/library/archlinux | archlinux latest |
-| <img src=https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/archlinux.svg></img> | [debian.AppImage](./containers/debian.AppImage) | docker.io/library/debian:11 | debian 11 bullseye |
-| <img src=https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/archlinux.svg></img> | [debian12.AppImage](./containers/debian12.AppImage) | docker.io/library/debian:testing | debian 12 bookworm/jessie |
-| <img src=https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/archlinux.svg></img> | [plex.AppImage](./containers/plex.AppImage) | docker.io/plexinc/pms-docker:latest | plex media server |
-| <img src=https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/archlinux.svg></img> | [ubuntu.AppImage](./containers/ubuntu.AppImage) | docker.io/library/ubuntu:20.04 | ubuntu 20.04 focal fossa |
-| <img src=https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/archlinux.svg></img> | [ubuntu22.AppImage](./containers/ubuntu22.AppImage) | docker.io/library/ubuntu:22.04 | ubuntu 22.04 jammy jellyfish |
+| <img src=https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/debian.svg></img> | [debian.AppImage](./containers/debian.AppImage) | docker.io/library/debian:11 | debian 11 bullseye |
+| <img src=https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/debian.svg></img> | [debian12.AppImage](./containers/debian12.AppImage) | docker.io/library/debian:testing | debian 12 bookworm/jessie |
+| <img src=https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/plex.svg></img> | [plex.AppImage](./containers/plex.AppImage) | docker.io/plexinc/pms-docker:latest | plex media server |
+| <img src=https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/ubuntu.svg></img> | [ubuntu.AppImage](./containers/ubuntu.AppImage) | docker.io/library/ubuntu:20.04 | ubuntu 20.04 focal fossa |
+| <img src=https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/ubuntu.svg></img> | [ubuntu22.AppImage](./containers/ubuntu22.AppImage) | docker.io/library/ubuntu:22.04 | ubuntu 22.04 jammy jellyfish |
 
 <br>
 <b><i>HOW TO USE: </b></i>
