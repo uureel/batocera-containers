@@ -16,13 +16,22 @@ for use inside x86_64 batocera.linux v36/37<br></i>
 | [ubuntu22.AppImage](./containers/ubuntu22.AppImage) | docker.io/library/ubuntu:22.04 | ubuntu 22.04 jammy jellyfish |
 
 <br>
+<br>
 <b><i>HOW TO USE: </b></i>
 <p style="background:#333;color:#ababab;padding:10px;margin:10px;">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  wget https://github.com/uureel/batocera-containers/blob/main/containers/ubuntu.AppImage<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  chmod a+x ubuntu.AppImage<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ./ubuntu.AppImage<br>
 <br>
-</p>
+<br>
+<b><i>TO SAVE THE CONTAINER FILESYSTEM: </b></i>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  run /ubuntu/save.sh from inside the container, <br></p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  to store the container into ~/ubuntu in batocera; <br></p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  to load the filesystem, run 'ubuntu.AppImage load' <br></p>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  when you load the filesystem you don't need to save it anymore' <br></p>
+<br>
+<br>
 <img src=https://user-images.githubusercontent.com/116395185/230185360-c6665b15-4031-4643-bfc7-dc5b7ce214d7.png style="width: 66%; height: 66%;"></img>
 </body>
 </html>
