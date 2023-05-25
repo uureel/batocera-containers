@@ -2,7 +2,7 @@
 <html>
 <body>
 <i>this repo provides appimaged podman containers<br>
-for use inside x86_64 batocera.linux v36/37<br></i>
+for use inside x86_64 batocera 6/37<br></i>
 <br>
 
 | appimage | docker container | description |
