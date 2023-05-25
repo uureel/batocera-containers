@@ -27,10 +27,8 @@ for use inside x86_64 batocera.linux v36/37<br></i>
 <br>
 <b><i>TO SAVE THE CONTAINER FILESYSTEM: </b></i>
 <p style="background:#333;color:#ababab;padding:10px;margin:10px;">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  run /ubuntu/save.sh from inside the container to store it into ~/ubuntu in batocera<br>
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  to load the filesystem, run 'ubuntu.AppImage load' <br>
-<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  run /ubuntu/save.sh from inside the container to store it into ~/ubuntu in batocera,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  then to load the saved filesystem, run <b>ubuntu.AppImage load</b> <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  * when you load the filesystem you don't need to save it anymore <br>
 <br>
 <br>
