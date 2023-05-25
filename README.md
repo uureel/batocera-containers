@@ -25,13 +25,14 @@ for use inside x86_64 batocera.linux v36/37<br></i>
 <br>
 <br>
 <b><i>TO SAVE THE CONTAINER FILESYSTEM: </b></i>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  run /ubuntu/save.sh from inside the container, <br></p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  to store the container into ~/ubuntu in batocera; <br></p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  to load the filesystem, run 'ubuntu.AppImage load' <br></p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  run /ubuntu/save.sh from inside the container, <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  to store the container into ~/ubuntu in batocera; <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  to load the filesystem, run 'ubuntu.AppImage load' <br>
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  when you load the filesystem you don't need to save it anymore' <br></p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  when you load the filesystem you don't need to save it anymore' <br>
 <br>
 <br>
+</p>
 <img src=https://user-images.githubusercontent.com/116395185/230185360-c6665b15-4031-4643-bfc7-dc5b7ce214d7.png style="width: 66%; height: 66%;"></img>
 </body>
 </html>
