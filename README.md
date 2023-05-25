@@ -3,7 +3,8 @@
 <body>
 <!--<i>this repo provides appimaged podman containers<br>
 for use inside x86_64 batocera 6/37<br></i>-->
-<b><i>CONTAINERS FOR X64 BATOCERA 36/37: </b></i>
+<br>
+<b><i>CONTAINERS FOR X64 BATOCERA 36/37: </b></i><br>
 <br>
 
 | appimage | docker container | description |
