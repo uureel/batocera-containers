@@ -4,7 +4,7 @@
 <!--<i>this repo provides appimaged podman containers<br>
 for use inside x86_64 batocera 6/37<br></i>-->
 <br>
-<b><i>CONTAINERS FOR X64 BATOCERA 36/37: </b></i><br>
+  <b><i><u>CONTAINERS FOR X64 BATOCERA 36/37: </u></b></i><br>
 <br>
 
 | appimage | docker container | description |
@@ -19,7 +19,7 @@ for use inside x86_64 batocera 6/37<br></i>-->
 
 <br>
 <br>
-<b><i>HOW TO USE: </b></i>
+<b><i><u>HOW TO USE: </u></b></i>
 <p style="background:#333;color:#ababab;padding:10px;margin:10px;">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  wget https://github.com/uureel/batocera-containers/blob/main/containers/ubuntu.AppImage<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  chmod a+x ubuntu.AppImage<br>
@@ -27,7 +27,7 @@ for use inside x86_64 batocera 6/37<br></i>-->
 </p>
 <br>
 <br>
-<b><i>TO SAVE THE CONTAINER FILESYSTEM: </b></i>
+<b><i><u>TO SAVE THE CONTAINER FILESYSTEM: </u></b></i>
 <p style="background:#333;color:#ababab;padding:10px;margin:10px;">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <b><i>run /ubuntu/save.sh from inside the container</b></i> to store it into ~/ubuntu;<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  then to load the saved filesystem, run <i><b>ubuntu.AppImage load</b></i> <br>
