@@ -33,7 +33,7 @@ for use inside x86_64 batocera 6/37<br></i>-->
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  then to load that saved filesystem, run: <i><b>ubuntu.AppImage load</b></i> from batocera.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *&nbsp;&nbsp; when you load the filesystem, you don't need to save it anymore <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **&nbsp; without save/load, it will start clean and use ~/ubuntu/autostart.sh, <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp; which you can edit to customize the starting environment <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp; which you can edit to customize the container's starting environment <br>
 <br>
 <br>
 </p>
