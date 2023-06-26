@@ -7,7 +7,7 @@ for use inside x86_64 batocera 6/37<br></i>-->
   <b><i><u>CONTAINERS FOR X64 BATOCERA 36/37: </u></b></i><br>
 <br>
 
-| appimage | docker container | description |
+| all-in-1 appimage | docker container | description |
 | --- | --- | --- |
 | [alpine.AppImage](./containers/alpine.AppImage) | docker.io/library/alpine:latest | alpine 3.17 stable |
 | [arch.AppImage](./containers/arch.AppImage) | docker.io/library/archlinux | archlinux latest |
