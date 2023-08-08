@@ -16,6 +16,7 @@ for use inside x86_64 batocera 6/37<br></i>-->
 | [plex.AppImage](./containers/plex.AppImage) | docker.io/plexinc/pms-docker:latest | plex media server |
 | [ubuntu.AppImage](./containers/ubuntu.AppImage) | docker.io/library/ubuntu:20.04 | ubuntu 20.04 focal fossa |
 | [ubuntu22.AppImage](./containers/ubuntu22.AppImage) | docker.io/library/ubuntu:22.04 | ubuntu 22.04 jammy jellyfish |
+| [batocera-jellyfin](https://batocera.pro/app/batocera-jellyfin) | docker.io/linuxserver/jellyfin | jellyfin |
 
 <br>
 <br>
