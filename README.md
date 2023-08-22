@@ -13,11 +13,11 @@ for use inside x86_64 batocera 6/37<br></i>-->
 | [arch.AppImage](./containers/arch.AppImage) | docker.io/library/archlinux | archlinux latest |
 | [debian.AppImage](./containers/debian.AppImage) | docker.io/library/debian:11 | debian 11 bullseye |
 | [debian12.AppImage](./containers/debian12.AppImage) | docker.io/library/debian:testing | debian 12 bookworm/jessie |
-| [plex.AppImage](./containers/plex.AppImage) | docker.io/plexinc/pms-docker:latest | plex media server |
 | [ubuntu.AppImage](./containers/ubuntu.AppImage) | docker.io/library/ubuntu:20.04 | ubuntu 20.04 focal fossa |
 | [ubuntu22.AppImage](./containers/ubuntu22.AppImage) | docker.io/library/ubuntu:22.04 | ubuntu 22.04 jammy jellyfish |
 | [batocera-sunshine](https://batocera.pro/app/batocera-sunshine) | [sunshine@ubuntu:20.04](https://github.com/LizardByte/Sunshine) | sunshine 0.20.0 @ ubuntu:20.04 |
 | [batocera-jellyfin](https://batocera.pro/app/batocera-jellyfin) | [jellyfin/jellyfin](https://hub.docker.com/r/jellyfin/jellyfin) | jellyfin latest |
+| [batocera-plex](https://batocera.pro/app/batocera-plex) | [plexinc/pms-docker](https://hub.docker.com/r/plexinc/pms-docker) | plexinc/pms-docker latest |
 
 <br>
 <br>
