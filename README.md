@@ -29,10 +29,10 @@ for use inside x86_64 batocera 6/37<br></i>-->
 </p>
 <br>
 <br>
-<b><i><u>TO SAVE THE CONTAINER FILESYSTEM</u></b></i> (make container storage persistent): 
+<b><i><u>TO SAVE/EXPORT THE CONTAINER FILESYSTEM</u></b></i> (make container storage persistent): 
 <p style="background:#333;color:#ababab;padding:10px;margin:10px;">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  run: <i><b>/ubuntu/save.sh from inside the container</b></i> to store it into ~/ubuntu in batocera;<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  then to load that saved filesystem, run it as: <i><b>ubuntu.AppImage load</b></i> from batocera.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  to load that filesystem, run it as: <i><b>ubuntu.AppImage load</b></i> from batocera.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *&nbsp;&nbsp; when you load the filesystem, you don't need to save it anymore <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **&nbsp; without save/load, it will start clean and use ~/ubuntu/autostart.sh, <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp; which you can edit to customize the container's starting environment <br>
