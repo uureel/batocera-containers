@@ -29,7 +29,7 @@ for use inside x86_64 batocera 6/37<br></i>-->
 </p>
 <br>
 <br>
-<b><i><u>TO SAVE/EXPORT THE CONTAINER FILESYSTEM</u></b></i> (make container storage persistent): 
+<b><i><u>TO SAVE/EXPORT THE CONTAINER FILESYSTEM</u></b></i>: 
 <p style="background:#333;color:#ababab;padding:10px;margin:10px;">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  run: <i><b>/ubuntu/save.sh from inside the container</b></i> to store it into ~/ubuntu in batocera;<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  to load that filesystem, run it as: <i><b>ubuntu.AppImage load</b></i> from batocera.<br>
