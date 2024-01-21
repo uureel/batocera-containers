@@ -34,7 +34,7 @@ for use inside x86_64 batocera 6/37<br></i>-->
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  run: <i><b>/ubuntu22/save.sh from inside the container</b></i> to store it into ~/ubuntu22 in batocera;<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  (or: <i><b>/arch/save.sh from inside the arch container</b></i> to store it into ~/arch in batocera, etc)<br>
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <b>to load that filesystem</b>, run it as: <i><b><u>ubuntu22.AppImage load</u></b></i> from batocera.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <b>to load that filesystem</b>, run it from batocera as: <i><b>ubuntu22.AppImage load</b></i><br>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *&nbsp;&nbsp; when you load the filesystem, you don't need to save it anymore <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **&nbsp; without save/load, it will start clean and use ~/ubuntu22/autostart.sh <br>
