@@ -23,7 +23,7 @@ for use inside x86_64 batocera 6/37<br></i>-->
 <br>
 <b><i><u>HOW TO USE: </u></b></i>
 <p style="background:#333;color:#ababab;padding:10px;margin:10px;">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  wget https://github.com/uureel/batocera-containers/blob/main/containers/ubuntu22.AppImage<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  wget https://github.com/uureel/batocera-containers/raw/main/containers/ubuntu22.AppImage<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  chmod a+x ubuntu22.AppImage<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ./ubuntu22.AppImage<br>
 </p>
