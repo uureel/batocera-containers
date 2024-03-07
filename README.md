@@ -29,16 +29,13 @@ for use inside x86_64 batocera 6/37<br></i>-->
 </p>
 <br>
 <br>
-<b><i><u>TO SAVE/EXPORT THE CONTAINER FILESYSTEM</u></b></i>: 
+<b><i><u>TO SAVE/EXPORT THE CONTAINER FILESYSTEM:</u></b></i>: 
 <p style="background:#333;color:#ababab;padding:10px;margin:10px;">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  run: <i><b>/ubuntu22/save.sh from inside the container</b></i> to store it into ~/ubuntu22 in batocera;<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  (or: <i><b>/arch/save.sh from inside the arch container</b></i> to store it into ~/arch in batocera, etc)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  run: <i><b>/ubuntu22/save.sh from inside the container</b></i> to store it into /userdata/system/ubuntu22 in batocera;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  (or: <i><b>/arch/save.sh from inside the arch container</b></i> to store it into /userdata/system/arch in batocera, etc)<br>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <b>to load that filesystem</b>, run it from batocera as: <i><b>ubuntu22.AppImage load</b></i><br>
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *&nbsp;&nbsp; when you load the filesystem, you don't need to save it anymore <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **&nbsp; without save/load, it will start clean and use ~/ubuntu22/autostart.sh <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp; (you can also customize it for clean/starting environment) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  *&nbsp;&nbsp; when you load the filesystem, you don't need to save it anymore <br>
 <br>
 <br>
 </p>
