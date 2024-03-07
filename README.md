@@ -29,7 +29,7 @@ for use inside x86_64 batocera 6/37<br></i>-->
 </p>
 <br>
 <br>
-<b><i><u>TO SAVE/EXPORT THE CONTAINER FILESYSTEM:</u></b></i>: 
+<b><i><u>TO SAVE/EXPORT THE CONTAINER FILESYSTEM: </u></b></i>
 <p style="background:#333;color:#ababab;padding:10px;margin:10px;">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  run: <i><b>/ubuntu22/save.sh from inside the container</b></i> to store it into /userdata/system/ubuntu22 in batocera;<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  (or: <i><b>/arch/save.sh from inside the arch container</b></i> to store it into /userdata/system/arch in batocera, etc)<br>
